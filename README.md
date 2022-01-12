@@ -1,9 +1,5 @@
 ### Hello there, I'm Luan Kleber 👋
 
-- 🔭 Working on line follower robots at university
-- 🌱 Currently learning ReacJS
-- ⚡ Fun fact: Second best virtual mini sumo driver in the world
-
 <div align="left">
   <a href="https://github.com/luankleber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luankleber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
