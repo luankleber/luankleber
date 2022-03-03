@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>Hello there, I'm Luan Kleber 👋</h3>
+ <h1>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ I'm Luan Kleber!</h1>
   <p>Mechatronics Engineering • Automation Technician • Graphic Design</p>
   <div style="display: inline_block"><br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luankleber&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
