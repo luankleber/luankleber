@@ -23,7 +23,6 @@
   <img align="center" alt="Premiere PRO" width="140px"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   <img align="center" alt="Blender" width="79px"  src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img align="center" alt="Figma" width="66px"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Atom" width="66px"  src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
   <img align="center" alt="Sublime Text" width="110-px"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=importante">
   <img align="center" alt="Visual Studio" width="145px"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="Windows" width="85px"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
