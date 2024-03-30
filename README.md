@@ -8,7 +8,7 @@
   
 <h3>I work with</h3>   
 
-[![My Skills](https://skillicons.dev/icons?i=ros,raspberrypi,python,c,arduino,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,raspberrypi,arduino,c,python,vscode,blender)](https://skillicons.dev)
 
  
   
