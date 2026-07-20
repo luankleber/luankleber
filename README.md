@@ -3,7 +3,7 @@
  I'm Luan Kleber!</h1>
  <p>Mechatronics Engineer • Automation Technician • Artist</p>
  <p>currently working at</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/ABB_logo.svg" width="120"/>
+ <img src="https://renewablesassociation.ca/wp-content/uploads/2022/10/NXP_Logo_Stacked_Black-10.png" width="120"/>
  <h3>I work with</h3>   
 
 [![My Skills](https://skillicons.dev/icons?i=ros,linux,raspberrypi,arduino,c,python,vscode,blender)](https://skillicons.dev)
